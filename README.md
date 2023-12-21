@@ -2,7 +2,7 @@
 
 
 Hi i am developer from Russia
-Like some chalenge and high level languages and fun
+Like some chalenge and low level languages and fun
 
 **My favorite OS**
 
